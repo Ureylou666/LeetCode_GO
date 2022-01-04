@@ -19,7 +19,7 @@
 | ✅   | 2021/12/19 | 0002 | Add Two Numbers |
 | ✅  | 2022/01/04 | 0003 | Longest Substring Without Repeating Characters | 滑块搜索 |
 |   |  | 0004 | Median of Two Sorted Arrays |
-|  ✅  | 2022/01/04 | 0005 | longestPalindrome | 中心扩展 |
+|  ✅  | 2022/01/04 | 0005 | Longest Palindromic Substring | 中心扩展 |
 
 
 
