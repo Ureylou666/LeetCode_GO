@@ -17,7 +17,8 @@
 | :-----:| :----- | :----: | :----:  | :----:|
 | ✅ | 2021/12/18 | 0001 |two-sum | |
 | ✅   | 2021/12/19 | 0002 | Add Two Numbers |
-|   | 2021/12/20 | 0003 | Longest Substring Without Repeating Characters |
+| ✅  | 2022/01/04 | 0003 | Longest Substring Without Repeating Characters |
+|   | 2022/01/04 | 0004 | Median of Two Sorted Arrays |
 
 
 
