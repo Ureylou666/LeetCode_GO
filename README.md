@@ -25,4 +25,4 @@
 |  ✅  | 2022/01/13 | 0009 | palindrome-number |   |
 |  ✅  | 2022/01/16 | 0011 | Container With Most Water |  指针对撞 |
 |  ✅  | 2022/01/19 | 0014 | Longest Common Prefix |   |
-|  - [ ]  | 2022/01/19 | 0015 | 3Sum | 超时  |
+|    | 2022/01/19 | 0015 | 3Sum | 超时  |
