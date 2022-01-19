@@ -24,4 +24,4 @@
 |  ✅  | 2022/01/13 | 0008 | String to Integer (atoi) | 字符串处理 |
 |  ✅  | 2022/01/13 | 0009 | palindrome-number |   |
 |  ✅  | 2022/01/16 | 0011 | Container With Most Water |  指针对撞 |
-
+|  ✅  | 2022/01/19 | 0014 | Longest Common Prefix |   |
